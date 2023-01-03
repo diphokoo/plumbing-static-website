@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-size: 100%;
+    line-height: inherit;
+}
+
+.nav-link {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+a.nav-link:active {
+    color: #f79d2b;
+}
+
+button.btn.btn-warning {
+    color: WHITE;
+    font-weight: 600;
+}
