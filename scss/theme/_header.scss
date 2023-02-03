@@ -17,6 +17,11 @@
   transition: all 0.5s;
 }
 
+div#logo {
+  color: $white;
+  font-size: 23px;
+}
+
 @media(max-width:673px){
   #logo{
       margin-left:20px;
@@ -142,7 +147,7 @@
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  // color: $primary-color;
+  color: $primary-color;
 }
 
 .nav-menu > li {

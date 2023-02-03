@@ -17,6 +17,12 @@
 	}
 }
 
+a.logoTitle {
+    color: white !important;
+    font-size: 23px !important;
+    font-weight: bold !important;
+}
+
 
 .primary-btn {
 	background-color:$primary-color;
@@ -275,9 +281,6 @@
 
 //--------- start  counter  Area -------------//
 
-.counter-area{
-
-}
 
 .single-counter{
 	text-align:center;
@@ -737,9 +740,6 @@
 
 .about-generic-area {
 	background: $white;
-	.border-top-generic {
-
-	}
 	p {
 		margin-bottom: 20px;
 	}
@@ -757,4 +757,6 @@
 		margin: 0;
 	}
 }
+
+
 //----------- End Generic Page -------------//
